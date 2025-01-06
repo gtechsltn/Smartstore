@@ -1,3 +1,11 @@
+# Smartstore
+
+https://docs.google.com/document/d/1RdlBjNqD1RwuEEHHZfKuxoRUslfAcvWlHRAMFyCca_U/
+
+https://github.com/smartstore/Smartstore
+
+https://github.com/gtechsltn/Smartstore
+
 <p align="center">
 	<a href="https://www.smartstore.com" target="_blank" rel="noopener noreferrer">
 		<img src="assets/smartstore-icon-whitebg.png" alt="Smartstore" width="120">
